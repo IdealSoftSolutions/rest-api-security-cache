@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: rest-api-security-cache
+perficient:
+  user:
+    name: pmaruthi5
+    password: ${PASSWORD}
